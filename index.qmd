@@ -1,0 +1,74 @@
+---
+title: "Yuvraaj Singh Kohli – MBA Portfolio"
+format: 
+  html:
+    theme: lux
+    page-layout: full
+    css: styles.css
+---
+
+# About Me
+
+I’m an MBA graduate specializing in Business Analytics with cross-sector experience in legal, pharmaceutical, IT staffing, and insurance industries. With a proven track record in compliance, regulatory affairs, and risk analysis, I thrive at the intersection of legal rigor and data-driven decision-making. I bring a strong foundation in research, reporting, and stakeholder communication, and I am driven by a passion for streamlining complex regulatory and business workflows.
+
+---
+
+# Education
+
+**Master of Business Administration (MBA)**  
+*Specialization: Business Analytics*  
+University Canada West, Canada — *2023*
+
+---
+
+# Professional Experience
+
+### Risk Analyst  
+**Capital West Insurance** – Surrey, Canada *(Jan 2024 – Present)*  
+- Analyzed commercial and personal insurance risks and advised clients on mitigation strategies aligned with OSFI and Canadian standards.  
+- Developed risk scoring tools to support underwriting negotiations and reduced client costs by up to 18%.  
+- Delivered detailed risk reports that enhanced customer retention and trust.
+
+### Compliance Analyst  
+**Sage IT Inc.** – Remote / U.S. *(Mar 2021 – Dec 2023)*  
+- Ensured end-to-end compliance with U.S. labor and immigration laws for IT consultants.  
+- Reduced audit issues by 40% through improved documentation and digital tracking systems.  
+- Led SOP development and client audit support, achieving 100% compliance readiness.
+
+### Regulatory Affairs Analyst  
+**Psychocare Health Pvt Ltd** – Mohali, India *(Jul 2020 – Feb 2021)*  
+- Coordinated CDSCO and state regulatory submissions, ensuring compliance with D&C Act.  
+- Compiled CTD dossiers and supported approvals for 3 previously stalled applications.  
+- Facilitated WHO-GMP inspection readiness by improving submission workflows.
+
+### Legal Analyst – Corporate Law  
+**Legacy Law Offices** – Chandigarh, India *(Jun 2019 – Jun 2020)*  
+- Conducted due diligence for M&A transactions and prepared filings under Companies Act and FEMA.  
+- Drafted commercial agreements and monitored compliance with SEBI/RBI regulations.  
+- Supported corporate clients in regulatory documentation and contract negotiation.
+
+---
+
+# Skills
+
+- Legal & Regulatory Research  
+- Risk Management & Compliance  
+- Regulatory Submissions & SOP Development  
+- Data Analysis (Excel, SQL, Tableau)  
+- Document Drafting & Policy Interpretation
+
+---
+
+# Certifications
+
+- Google Data Analytics Professional Certificate  
+- Certificate in Regulatory Affairs and Drug Safety (Online)
+
+---
+
+# Contact
+
+📍 Surrey, British Columbia  
+📞 +1 (778) 683-4835  
+📧 kohli.yuvraaj@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/yuvraaj-singh-kohli-70a346227/)
