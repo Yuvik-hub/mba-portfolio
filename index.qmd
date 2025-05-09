@@ -1,46 +1,77 @@
-title: "Yuvraaj Singh Kohli's MBA Portfolio"
+---
+title: "Yuvraaj Singh Kohli’s MBA Portfolio"
 author: "Yuvraaj Singh Kohli"
-format:
-html:
-theme: lux
-css: styles.css
-toc: true
-toc-location: left
-page-layout: full
-editor_options:
-markdown: 1
-<style> .hero { background-color: #1e1e2f; color: #fff; padding: 2rem; border-radius: 12px; text-align: center; margin-bottom: 2rem; } .hero img { border-radius: 50%; width: 150px; border: 3px solid #fff; } .skills-grid { display: flex; flex-wrap: wrap; gap: 1rem; justify-content: space-around; margin-top: 1rem; } .skill-card { background: #f8f9fa; border: 1px solid #ccc; border-radius: 12px; padding: 1rem; width: 200px; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); } .contact-panel { background: #333; color: white; padding: 1.5rem; border-radius: 12px; text-align: center; } .contact-panel a { color: #ffc107; font-weight: bold; } </style> <div class="hero"> <img src="./images/profile.jpg" alt="Yuvraaj Singh Kohli Headshot" /> <h1>Welcome to My MBA Portfolio</h1> <p>I’m <strong>Yuvraaj Singh Kohli</strong>, an MBA student passionate about business strategy, digital transformation, and leadership. Explore my academic and professional journey below.</p> </div>
-🎓 Education
-MBA in Business Administration
-📍 University Name (2023 – Present)
-Relevant coursework: Strategic Management, Financial Accounting, Marketing Analysis.
+output: html_document
+---
 
-Bachelor's in Business Administration
-📍 University Name (2019 – 2022)
-Focused on Business Analytics, Operations Management, Leadership.
+# Welcome to My Professional Portfolio
 
-💼 Professional Experience
-📊 Marketing Intern
-XYZ Company (2022)
+![Profile Picture](./images/profile.jpg){ width=150px }
 
-Conducted market research and analysis
+## Yuvraaj Singh Kohli
 
-Led a successful product launch team
+Analyst with cross-functional experience in legal research, regulatory affairs, compliance, and risk management across the legal, pharmaceutical, IT staffing, and insurance sectors. Skilled in due diligence, regulatory submissions, documentation, risk analysis, and stakeholder coordination.
 
-Boosted lead generation by 35%
+**Contact:** [kohli.yuvraaj@gmail.com](mailto:kohli.yuvraaj@gmail.com) | +778-683-4835
 
-📑 Research Assistant
-ABC University (2021–2022)
+**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/yuvraaj-singh-kohli)
 
-Assisted in research on consumer behavior
+## Professional Experience
 
-Co-authored a peer-reviewed article
+### Risk Analyst | Capital West Insurance
+*Surrey, Canada | Jan 2024 – Present*
+- Analyzed commercial and personal insurance risks, advising on tailored mitigation strategies aligned with Canadian market and compliance standards.
+- Built risk scoring tools and supported underwriting negotiations, improving coverage and saving clients up to 18% in costs.
+- Ensured adherence to OSFI regulations and produced client-facing risk reports that enhanced retention and trust.
 
-🚀 Key Skills & Strengths
-<div class="skills-grid"> <div class="skill-card"> <h3>🧠 Strategic Thinking</h3> <p>Market positioning, growth strategies</p> </div> <div class="skill-card"> <h3>📈 Data Analysis</h3> <p>Excel, Tableau, Python, KPIs</p> </div> <div class="skill-card"> <h3>👔 Leadership</h3> <p>Team management, mentoring</p> </div> <div class="skill-card"> <h3>📅 Project Management</h3> <p>Agile, Gantt charts, Jira</p> </div> <div class="skill-card"> <h3>💬 Communication</h3> <p>Public speaking, storytelling</p> </div> </div>
-📸 Projects
+### Compliance Analyst | Sage IT Inc.
+*Remote / U.S.-based | Mar 2021 – Dec 2023*
+- Ensured end-to-end compliance with U.S. labor laws and visa documentation (H-1B, OPT, GC) for IT consultants.
+- Reduced audit issues by 40% through digital tracking systems and improved documentation processes.
+- Supported client audits, background verifications, and SOP development to maintain 100% compliance readiness.
 
-🔍 Digital Strategy Capstone — Built GTM strategy using real-world SaaS market data.
+### Regulatory Affairs Analyst | Psychocare Health Pvt Ltd
+*Mohali, India | Jul 2020 – Feb 2021*
+- Managed regulatory submissions to CDSCO and state licensing authorities, ensuring compliance with Indian D&C Act regulations.
+- Coordinated with R&D, QA, and production teams to address regulatory deficiencies and secure approvals for previously stalled applications.
+- Streamlined submission tracking, improving on-time filing by 25% and supported a successful WHO-GMP inspection.
 
-🤝 Connect With Me
-<div class="contact-panel"> <h3>Let’s Connect</h3> 📧 Email: <a href="mailto:kohli.yuvraaj@gmail.com">kohli.yuvraaj@gmail.com</a> 🔗 LinkedIn: <a href="https://www.linkedin.com/in/yuvraaj-singh-kohli" target="_blank">linkedin.com/in/yuvraaj-singh-kohli</a> </div>
+### Legal Analyst – Corporate Law | Legacy Law Offices
+*Chandigarh, India | Jun 2019 – Jun 2020*
+- Conducted legal due diligence, supporting M&A transactions and drafting key corporate documents.
+- Assisted with regulatory tracking and drafting agreements under the Companies Act and FEMA.
+
+## Education
+
+![Education](./images/education.jpg)
+
+**Master of Business Administration (MBA) - Business Analytics**  
+University Canada West, Canada (2023)
+
+## Certifications
+
+- Google Data Analytics Professional Certificate
+- Certificate in Regulatory Affairs and Drug Safety (Online)
+
+## Technical Skills
+
+- Legal Research
+- Excel
+- Tableau
+- Regulatory Documentation
+- SQL
+- Compliance Monitoring
+- SOP Development
+- Risk Analysis
+- Microsoft Office Suite
+
+## Contact Me
+
+[Email](mailto:kohli.yuvraaj@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/yuvraaj-singh-kohli)
+
+## Featured Projects
+
+### Project 1 Title
+![Project 1](./images/project1.jpg)  
+Description of your first project goes here. It could include the purpose of the project, key achievements, and technologies used.

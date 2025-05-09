@@ -1,16 +1,20 @@
 project:
-type: website
-output-dir: docs
+  type: website
 
 website:
-title: "Yuvraaj Singh Kohli Portfolio"
-navbar:
-left:
-- text: Home
-href: index.qmd
+  title: "Yuvraaj Singh Kohli's MBA Portfolio"
+  description: "Professional portfolio showcasing education, experience, projects, and skills."
+  navbar:
+    title: "Portfolio"
+    left:
+      - text: "Home"
+        href: index.qmd
+    right:
+      - text: "GitHub"
+        href: https://github.com/your-username
 
 format:
-html:
-theme: lux
-css: styles.css
-toc: true
+  html:
+    theme: default
+    css: styles.css
+    toc: true

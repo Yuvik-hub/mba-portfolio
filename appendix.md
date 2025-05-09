@@ -1,0 +1,55 @@
+# Appendix – LLM-Assisted Drafting and Commentary
+
+## LLM Prompt Used
+
+> "Create an outline and sample text for a one-page MBA student portfolio webpage highlighting education, experience, skills, and a short bio."
+
+## LLM-Generated Output
+
+**Outline:**
+1. Header with Name and Contact Info  
+2. About/Bio Section  
+3. Education  
+4. Professional Experience Highlights  
+5. Key Skills  
+6. Certifications  
+7. Contact & Links  
+
+**Sample Text:**
+
+### About Me  
+I'm an MBA candidate with a background in legal research, regulatory affairs, and risk analysis. I thrive in cross-functional environments and bring a data-driven approach to solving business and compliance challenges.
+
+### Education  
+MBA - Business Analytics, University Canada West (2023)  
+Bachelor's in Law, Panjab University (2019)
+
+### Professional Highlights  
+- Risk Analyst at Capital West Insurance (Canada): Improved client retention through risk scoring tools.  
+- Compliance Analyst at Sage IT (U.S.): Reduced audit issues by 40%.  
+- Regulatory Affairs Analyst at Psychocare (India): Secured stalled drug application approvals.  
+- Legal Analyst at Legacy Law Offices: Supported M&A and regulatory compliance.
+
+### Key Skills  
+Regulatory Compliance · Risk Management · SQL · Tableau · Legal Documentation · Data Analytics
+
+### Certifications  
+Google Data Analytics Certificate · Drug Safety & Regulatory Affairs (Online)
+
+### Contact  
+kohli.yuvraaj@gmail.com | [LinkedIn](https://www.linkedin.com/in/yuvraaj-singh-kohli-70a346227/)
+
+---
+
+## Commentary
+
+I used the LLM-generated draft as a starting point to shape the structure of my Quarto portfolio. The outline was particularly helpful in organizing the key sections: About, Education, Experience, Skills, Certifications, and Contact.
+
+However, I rewrote most of the section content in my own voice to ensure authenticity and accuracy. For example:
+- The **"About Me"** section in the LLM draft was too generic, so I revised it to reflect my unique cross-sector experience and specific skills.
+- I expanded on my **professional experience** with concrete accomplishments and metrics, including cost savings and compliance outcomes.
+- I updated the **skills** list to match tools and methods I’ve actually used (e.g., SOP development, Microsoft Office Suite).
+- I personalized the contact section and added visuals (e.g., profile photo, project image placeholders) to enhance the layout and readability.
+
+Overall, the LLM helped reduce writer’s block and accelerate the initial draft. All final wording is my own.
+
