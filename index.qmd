@@ -1,74 +1,46 @@
----
-title: "Yuvraaj Singh Kohli – MBA Portfolio"
-format: 
-  html:
-    theme: lux
-    page-layout: full
-    css: styles.css
----
+title: "Yuvraaj Singh Kohli's MBA Portfolio"
+author: "Yuvraaj Singh Kohli"
+format:
+html:
+theme: lux
+css: styles.css
+toc: true
+toc-location: left
+page-layout: full
+editor_options:
+markdown: 1
+<style> .hero { background-color: #1e1e2f; color: #fff; padding: 2rem; border-radius: 12px; text-align: center; margin-bottom: 2rem; } .hero img { border-radius: 50%; width: 150px; border: 3px solid #fff; } .skills-grid { display: flex; flex-wrap: wrap; gap: 1rem; justify-content: space-around; margin-top: 1rem; } .skill-card { background: #f8f9fa; border: 1px solid #ccc; border-radius: 12px; padding: 1rem; width: 200px; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); } .contact-panel { background: #333; color: white; padding: 1.5rem; border-radius: 12px; text-align: center; } .contact-panel a { color: #ffc107; font-weight: bold; } </style> <div class="hero"> <img src="./images/profile.jpg" alt="Yuvraaj Singh Kohli Headshot" /> <h1>Welcome to My MBA Portfolio</h1> <p>I’m <strong>Yuvraaj Singh Kohli</strong>, an MBA student passionate about business strategy, digital transformation, and leadership. Explore my academic and professional journey below.</p> </div>
+🎓 Education
+MBA in Business Administration
+📍 University Name (2023 – Present)
+Relevant coursework: Strategic Management, Financial Accounting, Marketing Analysis.
 
-# About Me
+Bachelor's in Business Administration
+📍 University Name (2019 – 2022)
+Focused on Business Analytics, Operations Management, Leadership.
 
-I’m an MBA graduate specializing in Business Analytics with cross-sector experience in legal, pharmaceutical, IT staffing, and insurance industries. With a proven track record in compliance, regulatory affairs, and risk analysis, I thrive at the intersection of legal rigor and data-driven decision-making. I bring a strong foundation in research, reporting, and stakeholder communication, and I am driven by a passion for streamlining complex regulatory and business workflows.
+💼 Professional Experience
+📊 Marketing Intern
+XYZ Company (2022)
 
----
+Conducted market research and analysis
 
-# Education
+Led a successful product launch team
 
-**Master of Business Administration (MBA)**  
-*Specialization: Business Analytics*  
-University Canada West, Canada — *2023*
+Boosted lead generation by 35%
 
----
+📑 Research Assistant
+ABC University (2021–2022)
 
-# Professional Experience
+Assisted in research on consumer behavior
 
-### Risk Analyst  
-**Capital West Insurance** – Surrey, Canada *(Jan 2024 – Present)*  
-- Analyzed commercial and personal insurance risks and advised clients on mitigation strategies aligned with OSFI and Canadian standards.  
-- Developed risk scoring tools to support underwriting negotiations and reduced client costs by up to 18%.  
-- Delivered detailed risk reports that enhanced customer retention and trust.
+Co-authored a peer-reviewed article
 
-### Compliance Analyst  
-**Sage IT Inc.** – Remote / U.S. *(Mar 2021 – Dec 2023)*  
-- Ensured end-to-end compliance with U.S. labor and immigration laws for IT consultants.  
-- Reduced audit issues by 40% through improved documentation and digital tracking systems.  
-- Led SOP development and client audit support, achieving 100% compliance readiness.
+🚀 Key Skills & Strengths
+<div class="skills-grid"> <div class="skill-card"> <h3>🧠 Strategic Thinking</h3> <p>Market positioning, growth strategies</p> </div> <div class="skill-card"> <h3>📈 Data Analysis</h3> <p>Excel, Tableau, Python, KPIs</p> </div> <div class="skill-card"> <h3>👔 Leadership</h3> <p>Team management, mentoring</p> </div> <div class="skill-card"> <h3>📅 Project Management</h3> <p>Agile, Gantt charts, Jira</p> </div> <div class="skill-card"> <h3>💬 Communication</h3> <p>Public speaking, storytelling</p> </div> </div>
+📸 Projects
 
-### Regulatory Affairs Analyst  
-**Psychocare Health Pvt Ltd** – Mohali, India *(Jul 2020 – Feb 2021)*  
-- Coordinated CDSCO and state regulatory submissions, ensuring compliance with D&C Act.  
-- Compiled CTD dossiers and supported approvals for 3 previously stalled applications.  
-- Facilitated WHO-GMP inspection readiness by improving submission workflows.
+🔍 Digital Strategy Capstone — Built GTM strategy using real-world SaaS market data.
 
-### Legal Analyst – Corporate Law  
-**Legacy Law Offices** – Chandigarh, India *(Jun 2019 – Jun 2020)*  
-- Conducted due diligence for M&A transactions and prepared filings under Companies Act and FEMA.  
-- Drafted commercial agreements and monitored compliance with SEBI/RBI regulations.  
-- Supported corporate clients in regulatory documentation and contract negotiation.
-
----
-
-# Skills
-
-- Legal & Regulatory Research  
-- Risk Management & Compliance  
-- Regulatory Submissions & SOP Development  
-- Data Analysis (Excel, SQL, Tableau)  
-- Document Drafting & Policy Interpretation
-
----
-
-# Certifications
-
-- Google Data Analytics Professional Certificate  
-- Certificate in Regulatory Affairs and Drug Safety (Online)
-
----
-
-# Contact
-
-📍 Surrey, British Columbia  
-📞 +1 (778) 683-4835  
-📧 kohli.yuvraaj@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/yuvraaj-singh-kohli-70a346227/)
+🤝 Connect With Me
+<div class="contact-panel"> <h3>Let’s Connect</h3> 📧 Email: <a href="mailto:kohli.yuvraaj@gmail.com">kohli.yuvraaj@gmail.com</a> 🔗 LinkedIn: <a href="https://www.linkedin.com/in/yuvraaj-singh-kohli" target="_blank">linkedin.com/in/yuvraaj-singh-kohli</a> </div>

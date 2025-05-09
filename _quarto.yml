@@ -1,16 +1,16 @@
 project:
-  type: website
-  output-dir: docs  # GitHub Pages looks for this folder
+type: website
+output-dir: docs
 
 website:
-  title: "Yuvraaj Singh Kohli – MBA Portfolio"
-  navbar:
-    left:
-      - text: "Home"
-        file: index.qmd
+title: "Yuvraaj Singh Kohli Portfolio"
+navbar:
+left:
+- text: Home
+href: index.qmd
 
 format:
-  html:
-    theme: lux
-    page-layout: full
-    css: styles.css
+html:
+theme: lux
+css: styles.css
+toc: true
