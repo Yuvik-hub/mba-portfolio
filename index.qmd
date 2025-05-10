@@ -1,4 +1,3 @@
----
 title: "Yuvraaj Singh Kohli’s MBA Portfolio"
 author: "Yuvraaj Singh Kohli"
 output: html_document
@@ -17,6 +16,7 @@ Analyst with cross-functional experience in legal research, regulatory affairs, 
 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/yuvraaj-singh-kohli)
 
 ## Professional Experience
+![Experience](./images/experience.jpg)
 
 ### Risk Analyst | Capital West Insurance
 *Surrey, Canada | Jan 2024 – Present*
@@ -49,7 +49,9 @@ Analyst with cross-functional experience in legal research, regulatory affairs, 
 University Canada West, Canada (2023)
 
 ## Certifications
+![Certification](./images/certification.jpg)
 
+**Certified in**
 - Google Data Analytics Professional Certificate
 - Certificate in Regulatory Affairs and Drug Safety (Online)
 
