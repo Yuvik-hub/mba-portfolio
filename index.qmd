@@ -1,6 +1,6 @@
 
 ## Yuvraaj Singh Kohli
-![Profile Picture](./images/profile.jpg){ width=150px }
+![](./images/profile.jpg){ width=150px }
 
 Analyst with cross-functional experience in legal research, regulatory affairs, compliance, and risk management across the legal, pharmaceutical, IT staffing, and insurance sectors. Skilled in due diligence, regulatory submissions, documentation, risk analysis, and stakeholder coordination.
 
@@ -9,7 +9,7 @@ Analyst with cross-functional experience in legal research, regulatory affairs, 
 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/yuvraaj-singh-kohli)
 
 ## Professional Experience
-![Experience](./images/experience.jpg)
+![](./images/experience.jpg)
 
 ### Risk Analyst | Capital West Insurance
 *Surrey, Canada | Jan 2024 – Present*
@@ -36,13 +36,13 @@ Analyst with cross-functional experience in legal research, regulatory affairs, 
 
 ## Education
 
-![Education](./images/education.jpg)
+![](./images/education.jpg)
 
 **Master of Business Administration (MBA) - Business Analytics**  
 University Canada West, Canada (2023)
 
 ## Certifications
-![Certification](./images/certification.jpg)
+![](./images/certification.jpg)
 
 **Certified in**
 - Google Data Analytics Professional Certificate
