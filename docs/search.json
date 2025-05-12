@@ -2,58 +2,72 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to My Professional Portfolio",
+    "title": "Appendix – LLM-Assisted Drafting and Commentary",
     "section": "",
-    "text": "title: “Yuvraaj Singh Kohli’s MBA Portfolio” author: “Yuvraaj Singh Kohli” output: html_document —"
+    "text": "Profile Picture\n\n\nAnalyst with cross-functional experience in legal research, regulatory affairs, compliance, and risk management across the legal, pharmaceutical, IT staffing, and insurance sectors. Skilled in due diligence, regulatory submissions, documentation, risk analysis, and stakeholder coordination.\nContact: kohli.yuvraaj@gmail.com | +778-683-4835\nLinkedIn: LinkedIn Profile"
   },
   {
     "objectID": "index.html#yuvraaj-singh-kohli",
     "href": "index.html#yuvraaj-singh-kohli",
-    "title": "Welcome to My Professional Portfolio",
-    "section": "Yuvraaj Singh Kohli",
-    "text": "Yuvraaj Singh Kohli\nAnalyst with cross-functional experience in legal research, regulatory affairs, compliance, and risk management across the legal, pharmaceutical, IT staffing, and insurance sectors. Skilled in due diligence, regulatory submissions, documentation, risk analysis, and stakeholder coordination.\nContact: kohli.yuvraaj@gmail.com | +778-683-4835\nLinkedIn: LinkedIn Profile"
+    "title": "Appendix – LLM-Assisted Drafting and Commentary",
+    "section": "",
+    "text": "Profile Picture\n\n\nAnalyst with cross-functional experience in legal research, regulatory affairs, compliance, and risk management across the legal, pharmaceutical, IT staffing, and insurance sectors. Skilled in due diligence, regulatory submissions, documentation, risk analysis, and stakeholder coordination.\nContact: kohli.yuvraaj@gmail.com | +778-683-4835\nLinkedIn: LinkedIn Profile"
   },
   {
     "objectID": "index.html#professional-experience",
     "href": "index.html#professional-experience",
-    "title": "Welcome to My Professional Portfolio",
+    "title": "Appendix – LLM-Assisted Drafting and Commentary",
     "section": "Professional Experience",
     "text": "Professional Experience\n\n\n\nExperience\n\n\n\nRisk Analyst | Capital West Insurance\nSurrey, Canada | Jan 2024 – Present - Analyzed commercial and personal insurance risks, advising on tailored mitigation strategies aligned with Canadian market and compliance standards. - Built risk scoring tools and supported underwriting negotiations, improving coverage and saving clients up to 18% in costs. - Ensured adherence to OSFI regulations and produced client-facing risk reports that enhanced retention and trust.\n\n\nCompliance Analyst | Sage IT Inc.\nRemote / U.S.-based | Mar 2021 – Dec 2023 - Ensured end-to-end compliance with U.S. labor laws and visa documentation (H-1B, OPT, GC) for IT consultants. - Reduced audit issues by 40% through digital tracking systems and improved documentation processes. - Supported client audits, background verifications, and SOP development to maintain 100% compliance readiness.\n\n\nRegulatory Affairs Analyst | Psychocare Health Pvt Ltd\nMohali, India | Jul 2020 – Feb 2021 - Managed regulatory submissions to CDSCO and state licensing authorities, ensuring compliance with Indian D&C Act regulations. - Coordinated with R&D, QA, and production teams to address regulatory deficiencies and secure approvals for previously stalled applications. - Streamlined submission tracking, improving on-time filing by 25% and supported a successful WHO-GMP inspection.\n\n\nLegal Analyst – Corporate Law | Legacy Law Offices\nChandigarh, India | Jun 2019 – Jun 2020 - Conducted legal due diligence, supporting M&A transactions and drafting key corporate documents. - Assisted with regulatory tracking and drafting agreements under the Companies Act and FEMA."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "Welcome to My Professional Portfolio",
+    "title": "Appendix – LLM-Assisted Drafting and Commentary",
     "section": "Education",
     "text": "Education\n\n\n\nEducation\n\n\nMaster of Business Administration (MBA) - Business Analytics\nUniversity Canada West, Canada (2023)"
   },
   {
     "objectID": "index.html#certifications",
     "href": "index.html#certifications",
-    "title": "Welcome to My Professional Portfolio",
+    "title": "Appendix – LLM-Assisted Drafting and Commentary",
     "section": "Certifications",
     "text": "Certifications\n\n\n\nCertification\n\n\nCertified in - Google Data Analytics Professional Certificate - Certificate in Regulatory Affairs and Drug Safety (Online)"
   },
   {
     "objectID": "index.html#technical-skills",
     "href": "index.html#technical-skills",
-    "title": "Welcome to My Professional Portfolio",
+    "title": "Appendix – LLM-Assisted Drafting and Commentary",
     "section": "Technical Skills",
     "text": "Technical Skills\n\nLegal Research\nExcel\nTableau\nRegulatory Documentation\nSQL\nCompliance Monitoring\nSOP Development\nRisk Analysis\nMicrosoft Office Suite"
   },
   {
     "objectID": "index.html#contact-me",
     "href": "index.html#contact-me",
-    "title": "Welcome to My Professional Portfolio",
+    "title": "Appendix – LLM-Assisted Drafting and Commentary",
     "section": "Contact Me",
     "text": "Contact Me\nEmail\nLinkedIn"
   },
   {
-    "objectID": "index.html#featured-projects",
-    "href": "index.html#featured-projects",
-    "title": "Welcome to My Professional Portfolio",
-    "section": "Featured Projects",
-    "text": "Featured Projects\n\nProject 1 Title\n\nDescription of your first project goes here. It could include the purpose of the project, key achievements, and technologies used."
+    "objectID": "index.html#llm-prompt-used",
+    "href": "index.html#llm-prompt-used",
+    "title": "Appendix – LLM-Assisted Drafting and Commentary",
+    "section": "LLM Prompt Used",
+    "text": "LLM Prompt Used\n\n“Create an outline and sample text for a one-page MBA student portfolio webpage highlighting education, experience, skills, and a short bio.”"
+  },
+  {
+    "objectID": "index.html#llm-generated-output",
+    "href": "index.html#llm-generated-output",
+    "title": "Appendix – LLM-Assisted Drafting and Commentary",
+    "section": "LLM-Generated Output",
+    "text": "LLM-Generated Output\nNote: The draft content generated by ChatGPT (OpenAI) was used as a starting point for this portfolio, and the final text has been revised and personalized.\nOutline: 1. Header with Name and Contact Info\n2. About/Bio Section\n3. Education\n4. Professional Experience Highlights\n5. Key Skills\n6. Certifications\n7. Contact & Links\nSample Text:\n\nAbout Me\nI’m an MBA candidate with a background in legal research, regulatory affairs, and risk analysis. I thrive in cross-functional environments and bring a data-driven approach to solving business and compliance challenges.\n\n\nEducation\nMBA - Business Analytics, University Canada West (2023)\nBachelor’s in Law, Panjab University (2019)\n\n\nProfessional Highlights\n\nRisk Analyst at Capital West Insurance (Canada): Improved client retention through risk scoring tools.\n\nCompliance Analyst at Sage IT (U.S.): Reduced audit issues by 40%.\n\nRegulatory Affairs Analyst at Psychocare (India): Secured stalled drug application approvals.\n\nLegal Analyst at Legacy Law Offices: Supported M&A and regulatory compliance.\n\n\n\nKey Skills\nRegulatory Compliance · Risk Management · SQL · Tableau · Legal Documentation · Data Analytics\n\n\nCertifications\nGoogle Data Analytics Certificate · Drug Safety & Regulatory Affairs (Online)\n\n\nContact\nkohli.yuvraaj@gmail.com | LinkedIn"
+  },
+  {
+    "objectID": "index.html#commentary",
+    "href": "index.html#commentary",
+    "title": "Appendix – LLM-Assisted Drafting and Commentary",
+    "section": "Commentary",
+    "text": "Commentary\nI used the LLM-generated draft as a starting point to shape the structure of my Quarto portfolio. The outline was particularly helpful in organizing the key sections: About, Education, Experience, Skills, Certifications, and Contact.\nHowever, I rewrote most of the section content in my own voice to ensure authenticity and accuracy. For example: - The “About Me” section in the LLM draft was too generic, so I revised it to reflect my unique cross-sector experience and specific skills. - I expanded on my professional experience with concrete accomplishments and metrics, including cost savings and compliance outcomes. - I updated the skills list to match tools and methods I’ve actually used (e.g., SOP development, Microsoft Office Suite). - I personalized the contact section and added visuals (e.g., profile photo, project image placeholders) to enhance the layout and readability.\nOverall, the LLM helped reduce writer’s block and accelerate the initial draft. All final wording is my own."
   },
   {
     "objectID": "appendix.html",
