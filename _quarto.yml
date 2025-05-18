@@ -10,12 +10,23 @@ website:
     left:
       - text: "Home"
         href: index.qmd
+      - text: "Resume"
+        href: resume.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Skills"
+        href: skills.qmd
+      - text: "Contact"
+        href: contact.qmd
     right:
       - text: "GitHub"
-        href: https://github.com/Yuvik-hub
+        href: "https://github.com/Yuvik-hub"
 
 format:
   html:
     theme: default
     css: styles.css
     toc: true
+    includes:
+      in-header: _includes/fonts.html
+      after-body: _includes/loader.js

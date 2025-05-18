@@ -4,5 +4,20 @@
   },
   "appendix.md": {
     "appendix.html": "b89c4b42"
+  },
+  "contact.qmd": {
+    "contact.html": "933e0727"
+  },
+  "Projects.qmd": {
+    "Projects.html": "d67bae48"
+  },
+  "resume.qmd": {
+    "resume.html": "26b1ab00"
+  },
+  "skills.qmd": {
+    "skills.html": "f72e26e3"
+  },
+  "docs/projects.qmd": {
+    "projects.html": "b9fee326"
   }
 }

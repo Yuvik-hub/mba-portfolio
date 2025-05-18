@@ -1,0 +1,20 @@
+---
+title: "Skills & Certifications"
+format: html
+---
+
+# Skills & Certifications
+
+## Technical Skills
+- SQL, Tableau, Microsoft Excel
+- Risk Analysis, Regulatory Compliance
+- Microsoft Office Suite
+
+## Soft Skills
+- Cross-Functional Communication
+- SOP Development
+- Analytical Reasoning
+
+## Certifications
+- Google Data Analytics Professional Certificate
+- Certificate in Regulatory Affairs & Drug Safety (Online)

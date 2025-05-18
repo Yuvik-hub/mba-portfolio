@@ -1,0 +1,18 @@
+---
+title: "Resume"
+format: html
+---
+
+# Resume
+
+📄 [Download Resume (PDF)](\assets\Yuvraaj_s_Project .pdf)
+
+## Education
+- **MBA – Business Analytics**, University Canada West (2023)
+- **Bachelor of Laws**, Panjab University
+
+## Professional Experience
+- **Risk Analyst**, Capital West Insurance (2024–Present)
+- **Compliance Analyst**, Sage IT Inc. (2021–2023)
+- **Regulatory Affairs Analyst**, Psychocare Health (2020–2021)
+- **Legal Analyst**, Legacy Law Offices (2019–2020)

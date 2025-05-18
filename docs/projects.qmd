@@ -1,0 +1,18 @@
+---
+title: "Projects"
+format: html
+---
+
+# Projects & Case Studies
+
+## Risk Scoring Automation  
+*Capital West Insurance, 2024*  
+Built a dynamic scoring system that improved underwriting accuracy and led to an 18% cost reduction for clients.
+
+## Visa Compliance Tracker  
+*Sage IT, 2022*  
+Created a digital tracker for visa documentation and audits, reducing compliance issues by 40%.
+
+## Regulatory Dossier Management  
+*Psychocare Health, 2020*  
+Streamlined dossier submission workflows and improved approval timing by 25% for generic drug applications.

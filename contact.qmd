@@ -1,0 +1,12 @@
+---
+title: "Contact"
+format: html
+---
+
+# Contact
+
+📧 kohli.yuvraaj@gmail.com  
+📱 +778-683-4835  
+🔗 [LinkedIn](https://www.linkedin.com/in/yuvraaj-singh-kohli)
+
+You can also reach me through the contact form on my [GitHub Page](https://github.com/Yuvik-hub).
